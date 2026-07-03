@@ -1,9 +1,9 @@
-TOTAL	33915
+TOTAL	33940
 demi-vollering	5435
 marlen-reusser	1588
 pauline-ferrand-prevot	1437
 katarzyna-niewiadoma	3080
-kimberley-le-court	812
+kimberley-le-court	837
 lotte-kopecky	3062
 juliette-labous	1523
 mischa-bredewold	1468
