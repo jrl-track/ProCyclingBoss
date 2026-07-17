@@ -1,4 +1,4 @@
-TOTAL	34079
+TOTAL	34084
 demi-vollering	5435
 marlen-reusser	1588
 pauline-ferrand-prevot	1437
@@ -15,7 +15,7 @@ karlijn-swinkels	1931
 liane-lippert	968
 mireia-benito	976
 cedrine-kerbaol	1174
-nienke-veenhoven	980
+nienke-veenhoven	985
 lara-gillespie	1545
 femke-de-vries	1510
 margaux-vigie	132
