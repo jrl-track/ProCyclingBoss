@@ -1,5 +1,5 @@
-TOTAL	28502
-lorena-wiebes	2582
+TOTAL	28532
+lorena-wiebes	2612
 marianne-vos	1047
 niamh-fisher-black	1260
 elisa-longo-borghini	2576
