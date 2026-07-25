@@ -1,10 +1,10 @@
-TOTAL	28532
-lorena-wiebes	2612
+TOTAL	28572
+lorena-wiebes	2642
 marianne-vos	1047
 niamh-fisher-black	1260
 elisa-longo-borghini	2576
 mavi-garcia	827
-elisa-balsamo	2023
+elisa-balsamo	2033
 ally-wollaston	970
 urska-zigart	876
 noemi-ruegg	2380
