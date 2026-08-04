@@ -1,4 +1,4 @@
-TOTAL	38604
+TOTAL	38662
 tadej-pogacar	8581
 remco-evenepoel	5116
 mathieu-van-der-poel	2740
@@ -10,7 +10,7 @@ florian-lipowitz	1889
 jasper-philipsen	2931
 diego-ulissi	527
 tom-pidcock	2503
-jonathan-milan	1126
+jonathan-milan	1184
 jhonatan-narvaez	752
 kevin-vauquelin	846
 richard-carapaz	2271

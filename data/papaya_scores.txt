@@ -1,9 +1,9 @@
-TOTAL	31809
+TOTAL	31869
 jonas-vingegaard	4160
 isaac-del-toro	4058
 mads-pedersen	2162
 wout-van-aert	2638
-paul-magnier	1473
+paul-magnier	1503
 juan-ayuso-pesquera	1500
 oscar-onley	207
 arnaud-de-lie	722
@@ -15,7 +15,7 @@ matteo-jorgenson	1434
 ben-healy	254
 christian-scaroni	1866
 jai-hindley	1492
-matthew-brennan	735
+matthew-brennan	765
 lenny-martinez	2662
 biniam-girmay	1383
 michael-matthews	312
