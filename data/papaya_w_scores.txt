@@ -1,11 +1,11 @@
-TOTAL	35688
-demi-vollering	5655
-marlen-reusser	1853
+TOTAL	36258
+demi-vollering	5865
+marlen-reusser	2028
 pauline-ferrand-prevot	1477
-katarzyna-niewiadoma	3140
-kimberley-le-court	1057
+katarzyna-niewiadoma	3250
+kimberley-le-court	1077
 lotte-kopecky	3275
-juliette-labous	1523
+juliette-labous	1538
 mischa-bredewold	1538
 sarah-gigante	0
 sarah-van-dam	1271
@@ -17,5 +17,5 @@ mireia-benito	976
 cedrine-kerbaol	1294
 nienke-veenhoven	1098
 lara-gillespie	1710
-femke-de-vries	1515
+femke-de-vries	1555
 margaux-vigie	135
