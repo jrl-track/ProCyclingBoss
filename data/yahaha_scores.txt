@@ -1,4 +1,4 @@
-TOTAL	38753
+TOTAL	38758
 tadej-pogacar	8581
 remco-evenepoel	5116
 mathieu-van-der-poel	2740
@@ -17,5 +17,5 @@ richard-carapaz	2271
 egan-bernal	1158
 thymen-arensman	1459
 kaden-groves	2
-felix-gall	2125
+felix-gall	2130
 derek-gee	1243
