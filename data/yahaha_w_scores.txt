@@ -1,10 +1,10 @@
-TOTAL	34490
+TOTAL	34615
 lorena-wiebes	3597
 marianne-vos	1267
 niamh-fisher-black	1645
 elisa-longo-borghini	3901
 mavi-garcia	892
-elisa-balsamo	2383
+elisa-balsamo	2508
 ally-wollaston	970
 urska-zigart	901
 noemi-ruegg	2700
