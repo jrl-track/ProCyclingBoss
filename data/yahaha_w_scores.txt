@@ -1,5 +1,5 @@
-TOTAL	34615
-lorena-wiebes	3597
+TOTAL	34718
+lorena-wiebes	3655
 marianne-vos	1267
 niamh-fisher-black	1645
 elisa-longo-borghini	3901
@@ -13,9 +13,9 @@ elise-chabbey	1255
 puck-pieterse	2884
 cat-ferguson	1105
 paula-blasi	4988
-chiara-consonni	1265
+chiara-consonni	1295
 linda-zanetti	380
 anna-henderson	202
 dominika-wlodarczyk	2249
-caroline-andersson	367
+caroline-andersson	382
 eleonora-camilla-gasparrini	1140
