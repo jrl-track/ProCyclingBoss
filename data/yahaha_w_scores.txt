@@ -1,11 +1,11 @@
-TOTAL	34718
-lorena-wiebes	3655
+TOTAL	34849
+lorena-wiebes	3713
 marianne-vos	1267
 niamh-fisher-black	1645
 elisa-longo-borghini	3901
 mavi-garcia	892
 elisa-balsamo	2508
-ally-wollaston	970
+ally-wollaston	973
 urska-zigart	901
 noemi-ruegg	2700
 amanda-spratt	399
@@ -13,8 +13,8 @@ elise-chabbey	1255
 puck-pieterse	2884
 cat-ferguson	1105
 paula-blasi	4988
-chiara-consonni	1295
-linda-zanetti	380
+chiara-consonni	1305
+linda-zanetti	440
 anna-henderson	202
 dominika-wlodarczyk	2249
 caroline-andersson	382
