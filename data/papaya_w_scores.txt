@@ -1,9 +1,9 @@
-TOTAL	42797
+TOTAL	42878
 demi-vollering	8060
 marlen-reusser	2278
 pauline-ferrand-prevot	1477
 katarzyna-niewiadoma	4855
-kimberley-le-court	1790
+kimberley-le-court	1823
 lotte-kopecky	3515
 juliette-labous	1663
 mischa-bredewold	1574
@@ -11,11 +11,11 @@ sarah-gigante	0
 sarah-van-dam	1456
 anna-van-der-breggen	4084
 yara-kastelijn	1103
-karlijn-swinkels	2030
-liane-lippert	1084
+karlijn-swinkels	2040
+liane-lippert	1114
 mireia-benito	1001
 cedrine-kerbaol	2069
 nienke-veenhoven	1118
 lara-gillespie	1725
-femke-de-vries	1780
+femke-de-vries	1788
 margaux-vigie	135
