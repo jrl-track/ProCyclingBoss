@@ -1,5 +1,5 @@
-TOTAL	41177
-tadej-pogacar	9336
+TOTAL	41197
+tadej-pogacar	9356
 remco-evenepoel	5116
 mathieu-van-der-poel	2740
 joao-almeida	348
