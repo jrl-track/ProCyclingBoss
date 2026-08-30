@@ -1,4 +1,4 @@
-TOTAL	36488
+TOTAL	36613
 lorena-wiebes	4134
 marianne-vos	1267
 niamh-fisher-black	1658
@@ -13,7 +13,7 @@ elise-chabbey	1255
 puck-pieterse	2884
 cat-ferguson	1105
 paula-blasi	4988
-chiara-consonni	1338
+chiara-consonni	1463
 linda-zanetti	443
 anna-henderson	213
 dominika-wlodarczyk	2249
