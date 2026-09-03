@@ -1,11 +1,11 @@
-TOTAL	34854
+TOTAL	34869
 jonas-vingegaard	4160
 isaac-del-toro	4381
 mads-pedersen	2374
 wout-van-aert	2933
 paul-magnier	1958
 juan-ayuso-pesquera	1500
-oscar-onley	682
+oscar-onley	697
 arnaud-de-lie	811
 mattias-skjelmose-jensen	2293
 jay-vine	706
